@@ -1,0 +1,24 @@
+.cart {
+   position: sticky;
+   top: 0px;
+}
+
+.time-cart {
+   font-family: 'Exo 2';
+   font-style: normal;
+   /* font-weight: 700; */
+   font-size: 20px;
+   line-height: 160%;
+   color: #6047EC;
+
+   background-color: darkgray;
+   width: 100%;
+   padding: 5px;
+   border-radius: 10px;
+}
+.bookmarket{
+   margin: 5px;
+   padding: 5px;
+   background-color: darkgrey;
+   border-radius: 10px;
+}
